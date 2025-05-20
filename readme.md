@@ -49,5 +49,5 @@ BattleCity/
 
 ## 致谢
 
-- 致敬原版《Battle City》开发者
+- 致敬H5版battleCity的开发者 👉🏻 [Battle City H5项目地址💐💐💐](https://github.com/hec9527/BattleCity) 
 - 感谢所有开源社区的支持
